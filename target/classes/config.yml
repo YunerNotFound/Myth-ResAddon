@@ -1,0 +1,12 @@
+DebugMode: true
+
+Fly:
+  # 模式1 仅允许领地主人飞行
+  # 模式2 允许所有领地成员飞行
+  # 模式3 允许任何人进入领地时飞行
+  ResFlyMode: 3
+  FreeFlyDay:
+    - '2024-6-15'
+    - '2024-6-16'
+  BlackWorld:
+    - 'test'

@@ -1,0 +1,5 @@
+name: Myth-ResAddon
+version: '${project.version}'
+main: com.mythmc.ResAddon
+api-version: '1.20'
+author: 404Yuner
